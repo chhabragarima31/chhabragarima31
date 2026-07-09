@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Garima Chhabra</h1>
 <h3 align="center">CSE student @chitkarau.</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: garimachhabra720@gmail.com</h3>
 <p align="left">
 </p>
 
